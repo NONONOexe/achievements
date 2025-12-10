@@ -1,0 +1,53 @@
+# ==== 基本情報 ====
+
+# タイトル
+title: 日本における正面衝突事故と道路曲率の関係調査
+
+# 出版物の種類
+#   domestic_conference : 国内会議論文
+#   poster              : ポスター発表
+#   conference_paper    : 国際会議論文（査読あり）
+#   technical_report    : 技術報告書
+#   journal_article     : 学術誌論文（査読あり）
+#   book                : 書籍
+publication_type: domestic_conference
+
+# 査読の有無
+peer_reviewed: false # false / true
+
+# ==== 著者 ====
+
+authors:
+  - name: 安藤 圭祐
+    type: contributor
+  - name: 内種 岳詞
+    type: supervisor
+  - name: 向 直人
+    type: supervisor
+  - name: 岩田 員典
+    type: supervisor
+  - name: 伊藤 暢浩
+    type: supervisor
+
+# ==== 掲載情報 ====
+
+venue: 社会情報学会 関西支部研究会（社会システムと知能合同研究会） # 掲載雑誌，会議名
+volume: null # 巻
+issue: null # 号
+pages: 1-11 # e.g. 123-130
+
+# 発行年月
+publication_date: 2025-02 # YYYY-MM
+
+# ==== 識別・参照情報 ====
+
+# DOI
+doi: null
+
+# URL
+url: null
+
+# ==== 補足情報 ====
+
+# 採択率
+acceptance_rate: null

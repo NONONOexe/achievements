@@ -1,0 +1,53 @@
+# ==== 基本情報 ====
+
+# タイトル
+title: 交通安全を目指す研究におけるマルチエージェントシミュレーションの利用の検討
+
+# 出版物の種類
+#   journal_article     : 学術誌論文（査読あり）
+#   conference_paper    : 国際会議論文（査読あり）
+#   domestic_conference : 国内会議論文
+#   poster              : ポスター発表
+#   book                : 書籍
+#   technical_report    : 技術報告書
+publication_type: domestic_conference
+
+# 査読の有無
+peer_reviewed: false # true / false
+
+# ==== 著者 ====
+
+authors:
+  - name: 安藤 圭祐
+    type: contributor # contributor / supervisor
+  - name: 内種 岳詞
+    type: supervisor
+  - name: 向 直人
+    type: supervisor
+  - name: 岩田 員典
+    type: supervisor
+  - name: 伊藤 暢浩
+    type: supervisor
+
+# ==== 掲載情報 ====
+
+venue: 電気・電子・情報関係学会東海支部連合大会 # 掲載雑誌，会議名
+volume: null # 巻
+issue: null # 号
+pages: 1 # e.g. 123-130
+
+# 発行年月
+publication_date: 2025-09 # YYYY-MM
+
+# ==== 識別・参照情報 ====
+
+# DOI
+doi: null
+
+# URL
+url: null
+
+# ==== 補足情報 ====
+
+# 採択率
+acceptance_rate: null

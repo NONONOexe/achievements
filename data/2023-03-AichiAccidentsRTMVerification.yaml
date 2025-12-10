@@ -1,0 +1,57 @@
+# ==== 基本情報 ====
+
+# タイトル
+title: 愛知県の交通事故に対するRisk Terrain Modelingの有効性の検証
+
+# 出版物の種類
+#   domestic_conference : 国内会議論文
+#   poster              : ポスター発表
+#   conference_paper    : 国際会議論文（査読あり）
+#   technical_report    : 技術報告書
+#   journal_article     : 学術誌論文（査読あり）
+#   book                : 書籍
+publication_type: domestic_conference
+
+# 査読の有無
+peer_reviewed: false # false / true
+
+# ==== 著者 ====
+
+authors:
+  - name: 清水 和彦
+    type: contributor
+  - name: 安藤 圭祐
+    type: supervisor
+  - name: 内種 岳詞
+    type: supervisor
+  - name: 向 直人
+    type: supervisor
+  - name: 岩田 員典
+    type: supervisor
+  - name: 伊藤 暢浩
+    type: supervisor
+  - name: 蒋 湧
+    type: supervisor
+
+# ==== 掲載情報 ====
+
+venue: 人工知能学会第二種研究会資料 # 掲載雑誌，会議名
+volume: 2023 # 巻
+issue: SAI-046 # 号
+pages: 1-7 # e.g. 123-130
+
+# 発行年月
+publication_date: 2023-03 # YYYY-MM
+
+# ==== 識別・参照情報 ====
+
+# DOI
+doi: null
+
+# URL
+url: null
+
+# ==== 補足情報 ====
+
+# 採択率
+acceptance_rate: null

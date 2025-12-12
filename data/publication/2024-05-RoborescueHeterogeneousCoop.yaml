@@ -1,0 +1,32 @@
+meta:
+  schema: publication
+title: RRSにおけるL-DCOPを用いた異種エージェント間協調について
+publication_type: domestic_conference
+peer_reviewed: no
+authors:
+- name: 鈴木 宏哉
+  type: contributor
+- name: 上原 温揮
+  type: contributor
+- name: 藤澤 丈
+  type: contributor
+- name: 前田 綾也
+  type: contributor
+- name: 松永 一希
+  type: contributor
+- name: 安藤 圭祐
+  type: supervisor
+- name: 内種 岳詞
+  type: supervisor
+- name: 岩田 員典
+  type: supervisor
+- name: 伊藤 暢浩
+  type: supervisor
+venue: 人工知能学会第二種研究会資料
+volume: 2023
+issue: SAI-047
+pages: 1-8
+publication_date: 2024-05
+doi: 10.11517/jsaisigtwo.2023.SAI-047_03
+url: ~
+acceptance_rate: ~

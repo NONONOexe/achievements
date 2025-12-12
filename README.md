@@ -20,9 +20,15 @@ achievements/
 │  └─ achievements.code-snippets # 業績用YAMLテンプレート
 │
 ├─ data/
-│  ├─ 2026-01-keywords.yaml # 2026年1月の業績
-│  ├─ 2025-07-keywords.yaml
-│  └─ ...
+│  ├─ publication/   # 論文
+│  │  ├─ 2026-01-keywords.yaml # 2026年1月の業績
+│  │  ├─ 2025-07-keywords.yaml
+│  │  └─ ...
+│  │
+│  └─ presentation/  # 発表
+│      ├─ 2025-12-keywords.yaml
+│      ├─ 2024-11-keywords.yaml
+│      └─ ...
 │
 ├─ scripts/
 │  └─ format-conversion.R # 業績データのフォーマット変換スクリプト

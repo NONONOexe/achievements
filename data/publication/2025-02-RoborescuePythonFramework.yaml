@@ -1,0 +1,26 @@
+meta:
+  schema: publication
+title: RoboCupRescue SimulationのためのPythonを用いたエージェント開発フレームワーク
+publication_type: domestic_conference
+peer_reviewed: no
+authors:
+- name: 上原 温揮
+  type: contributor
+- name: 島田 優希
+  type: contributor
+- name: 安藤 圭祐
+  type: supervisor
+- name: 内種 岳詞
+  type: supervisor
+- name: 岩田 員典
+  type: supervisor
+- name: 伊藤 暢浩
+  type: supervisor
+venue: 研究報告知能システム（ICS）
+volume: 2025-ICS-217
+issue: 2
+pages: 1-7
+publication_date: 2025-02
+doi: ~
+url: ~
+acceptance_rate: ~

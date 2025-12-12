@@ -1,0 +1,24 @@
+meta:
+  schema: presentation
+title: RRSのADFのモジュール間依存関係について
+presentation_type: poster
+presenters:
+- name: 松永 一希
+  type: contributor
+- name: 岡本 愛
+  type: contributor
+- name: 笹田 敬太郎
+  type: contributor
+- name: 安藤 圭祐
+  type: supervisor
+- name: 内種 岳詞
+  type: supervisor
+- name: 岩田 員典
+  type: supervisor
+- name: 伊藤 暢浩
+  type: supervisor
+event_name: 「社会における AI」研究会 第47回研究会
+orgnizer: 人工知能学会
+location: 大阪公立大学
+presentation_date: 2023-11
+url: https://sites.google.com/site/jsaisigsai/%E7%A0%94%E7%A9%B6%E4%BC%9A%E6%B4%BB%E5%8B%95/meeting-2023-11-4

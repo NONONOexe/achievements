@@ -1,0 +1,29 @@
+meta:
+  schema: publication
+title: Proposal of a Latent Information Visualization System Based on Agent Improvement
+  Flow Analysis
+publication_type: conference_paper
+peer_reviewed: yes
+authors:
+- name: Ryuki YAMAMOTO
+  type: contributor
+- name: Mihono MARUOKA
+  type: contributor
+- name: Keisuke ANDO
+  type: supervisor
+- name: Takesh UCHITANE
+  type: supervisor
+- name: Naoto MUKAI
+  type: supervisor
+- name: Kazunori IWATA
+  type: supervisor
+- name: Nobuhiro ITO
+  type: supervisor
+venue: 2025 18th IIAI International Congress on Advanced Applied Informatics (IIAI-AAI)
+volume: ~
+issue: ~
+pages: 1-6
+publication_date: 2025-07
+doi: ~
+url: ~
+acceptance_rate: ~

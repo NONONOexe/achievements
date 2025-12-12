@@ -1,0 +1,24 @@
+meta:
+  schema: publication
+title: 愛知県における交通事故特徴の空間分析
+publication_type: domestic_conference
+peer_reviewed: no
+authors:
+- name: 安藤 圭祐
+  type: contributor
+- name: 内種 岳詞
+  type: supervisor
+- name: 向 直人
+  type: supervisor
+- name: 岩田 員典
+  type: supervisor
+- name: 伊藤 暢浩
+  type: supervisor
+venue: 電子情報通信学会技術研究報告
+volume: 123
+issue: 412
+pages: 12-17
+publication_date: 2024-02
+doi: ~
+url: ~
+acceptance_rate: ~

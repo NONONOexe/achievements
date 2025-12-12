@@ -1,0 +1,24 @@
+meta:
+  schema: publication
+title: 人狼知能における要請と受諾によるゲーム展開の変化
+publication_type: domestic_conference
+peer_reviewed: no
+authors:
+- name: 天野 樹
+  type: contributor
+- name: 安藤 圭祐
+  type: supervisor
+- name: 内種 岳詞
+  type: supervisor
+- name: 岩田 員典
+  type: supervisor
+- name: 伊藤 暢浩
+  type: supervisor
+venue: 電子情報通信学会技術研究報告
+volume: 122
+issue: 421
+pages: 24-29
+publication_date: 2023-05
+doi: ~
+url: ~
+acceptance_rate: ~

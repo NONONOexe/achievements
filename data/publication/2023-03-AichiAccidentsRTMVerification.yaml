@@ -1,0 +1,28 @@
+meta:
+  schema: publication
+title: 愛知県の交通事故に対するRisk Terrain Modelingの有効性の検証
+publication_type: domestic_conference
+peer_reviewed: no
+authors:
+- name: 清水 和彦
+  type: contributor
+- name: 安藤 圭祐
+  type: supervisor
+- name: 内種 岳詞
+  type: supervisor
+- name: 向 直人
+  type: supervisor
+- name: 岩田 員典
+  type: supervisor
+- name: 伊藤 暢浩
+  type: supervisor
+- name: 蒋 湧
+  type: supervisor
+venue: 人工知能学会第二種研究会資料
+volume: 2023
+issue: SAI-046
+pages: 1-7
+publication_date: 2023-03
+doi: ~
+url: ~
+acceptance_rate: ~

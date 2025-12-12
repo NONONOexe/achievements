@@ -1,0 +1,38 @@
+meta:
+  schema: publication
+title: RoboCupRescue 2024 TDP Agent Simulation AIT-Rescue (Japan)
+publication_type: technical_report
+peer_reviewed: no
+authors:
+- name: Ryoya MAEDA
+  type: contributor
+- name: Haruki UEHARA
+  type: contributor
+- name: Joe FUJISAWA
+  type: contributor
+- name: Itsuki MATSUNAGA
+  type: contributor
+- name: Ryosuke SUZUKI
+  type: contributor
+- name: Kouta KATO
+  type: contributor
+- name: Yuki SHIMADA
+  type: contributor
+- name: Shuntarou FUJII
+  type: contributor
+- name: Keisuke ANDO
+  type: contributor
+- name: Takeshi UCHITANE
+  type: supervisor
+- name: Kazunori IWATA
+  type: supervisor
+- name: Nobuhiro ITO
+  type: supervisor
+venue: RoboCup 2024, Team Description Paper
+volume: ~
+issue: ~
+pages: 1-15
+publication_date: 2024-07
+doi: ~
+url: https://rescuesim.robocup.org/2024-eindhoven-agent-participating-teams/
+acceptance_rate: ~

@@ -1,0 +1,24 @@
+meta:
+  schema: publication
+title: 人狼BBSにおける発話の自動分類
+publication_type: domestic_conference
+peer_reviewed: no
+authors:
+- name: 福井 敬徳
+  type: contributor
+- name: 安藤 圭祐
+  type: contributor
+- name: 村上 俊英
+  type: contributor
+- name: 伊藤 暢浩
+  type: supervisor
+- name: 岩田 員典
+  type: supervisor
+venue: 研究報告知能システム（ICS）
+volume: 2017-ICS-189
+issue: 3
+pages: 1-7
+publication_date: 2017-07
+doi: ~
+url: http://id.nii.ac.jp/1001/00182807/
+acceptance_rate: ~

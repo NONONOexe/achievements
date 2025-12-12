@@ -1,0 +1,22 @@
+meta:
+  schema: presentation
+title: トライデータ構造を用いたサッカーチームの分類について
+presentation_type: poster
+presenters:
+- name: 福田 遥生
+  type: contributor
+- name: 小泉 響暉
+  type: contributor
+- name: 伴 昌樹
+  type: supervisor
+- name: 天野 巧巳
+  type: supervisor
+- name: 安藤 圭祐
+  type: supervisor
+- name: 伊藤 暢浩
+  type: supervisor
+event_name: 「社会における AI」研究会 第45回研究会
+orgnizer: 人工知能学会
+location: 大阪公立大学
+presentation_date: 2022-12
+url: https://sites.google.com/site/jsaisigsai/%E7%A0%94%E7%A9%B6%E4%BC%9A%E6%B4%BB%E5%8B%95/meeting-2022-12

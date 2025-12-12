@@ -1,0 +1,24 @@
+meta:
+  schema: publication
+title: 期待ポゼッション値によるRSS2Dの試合状況分析
+publication_type: domestic_conference
+peer_reviewed: no
+authors:
+- name: 天野 巧巳
+  type: contributor
+- name: 安藤 圭祐
+  type: supervisor
+- name: 内種 岳詞
+  type: supervisor
+- name: 岩田 員典
+  type: supervisor
+- name: 伊藤 暢浩
+  type: supervisor
+venue: 研究報告知能システム（ICS）
+volume: 2022-ICS-210
+issue: 8
+pages: 1-6
+publication_date: 2023-03
+doi: ~
+url: ~
+acceptance_rate: ~

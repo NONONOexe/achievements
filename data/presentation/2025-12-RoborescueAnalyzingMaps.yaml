@@ -1,0 +1,30 @@
+meta:
+  schema: presentation
+title: 地図と災害救助エージェントとの多角的な指標に基づく関係分析
+presentation_type: poster
+presenters:
+- name: 新美 舜也
+  type: contributor
+- name: 伊藤 慎太郎
+  type: contributor
+- name: 都築 愛弥
+  type: contributor
+- name: 水野 智貴
+  type: contributor
+- name: 藤井 駿太郎
+  type: supervisor
+- name: 安藤 圭祐
+  type: supervisor
+- name: 内種 岳詞
+  type: supervisor
+- name: 向 直人
+  type: supervisor
+- name: 岩田 員典
+  type: supervisor
+- name: 伊藤 暢浩
+  type: supervisor
+event_name: 「社会における AI」研究会 第53回研究会
+orgnizer: 人工知能学会
+location: 愛知大学
+presentation_date: 2025-11
+url: https://sites.google.com/site/jsaisigsai/%E7%A0%94%E7%A9%B6%E4%BC%9A%E6%B4%BB%E5%8B%95/meeting-2025-11

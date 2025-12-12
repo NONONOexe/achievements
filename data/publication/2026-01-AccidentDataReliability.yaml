@@ -1,0 +1,24 @@
+meta:
+  schema: publication
+title: 交通事故の要因分析におけるデータの信頼性
+publication_type: journal_article
+peer_reviewed: yes
+authors:
+- name: 安藤 圭祐
+  type: contributor
+- name: 内種 岳詞
+  type: supervisor
+- name: 向 直人
+  type: supervisor
+- name: 岩田 員典
+  type: supervisor
+- name: 伊藤 暢浩
+  type: supervisor
+venue: 信頼性
+volume: 48
+issue: 1
+pages: 1-6
+publication_date: 2026-01
+doi: ~
+url: ~
+acceptance_rate: ~

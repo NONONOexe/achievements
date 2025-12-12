@@ -1,0 +1,28 @@
+meta:
+  schema: publication
+title: 名古屋市中区の交通事故を対象としたRisk Terrain Modeling の適用に関する一考察
+publication_type: domestic_conference
+peer_reviewed: no
+authors:
+- name: 清水 和彦
+  type: contributor
+- name: 安藤 圭祐
+  type: supervisor
+- name: 内種 岳詞
+  type: supervisor
+- name: 向 直人
+  type: supervisor
+- name: 岩田 員典
+  type: supervisor
+- name: 伊藤 暢浩
+  type: supervisor
+- name: 蒋 湧
+  type: supervisor
+venue: 第20回情報学ワークショップ（WiNF2022）
+volume: ~
+issue: ~
+pages: 1-3
+publication_date: 2022-12
+doi: ~
+url: https://sites.google.com/view/winf2022/
+acceptance_rate: ~

@@ -3,6 +3,9 @@
 		"scope": "yaml",
 		"prefix": "publication",
 		"body": [
+			"meta:",
+      "  schema: publication",
+			"",
 			"# ==== 基本情報 ====",
 			"",
 			"# タイトル",
@@ -52,5 +55,47 @@
 			""
 		],
 		"description": "Research publication YAML template"
-	}
+	},
+	"Presentation YAML": {
+		"scope": "yaml",
+		"prefix": "presentation",
+		"body": [
+			"meta:",
+      "  schema: presentation",
+			"",
+			"# ==== 基本情報 ====",
+			"",
+			"# タイトル",
+			"title: $1",
+			"",
+			"# 発表の種類",
+			"#   poster : ポスター発表",
+			"#   oral   : 口頭発表",
+			"presentation_type: ${2|poster,oral|}",
+			"",
+			"# ==== 発表者 ====",
+			"",
+			"presenters:",
+			"  - name: $3",
+			"    type: ${4|contributor,supervisor|} # contributor / supervisor",
+			"  # - name: ",
+			"  #   type: ",
+			"",
+			"# ==== 開催情報 ====",
+			"",
+			"event_name: $5 # 会議名",
+			"orgnizer: $6 # 主催者",
+			"location: $7 # 開催地",
+			"",
+			"# 発表年月",
+			"presentation_date: $8 # YYYY-MM",
+			"",
+			"# ==== 資料 ====",
+			"",
+			"# URL",
+			"url: ${9:null}",
+			""
+		],
+		"description": "Research presentation YAML template"
+	},
 }

@@ -1,0 +1,22 @@
+meta:
+  schema: presentation
+title: Applying covariance structure analysis to reveal relationships between agent
+  capability and map characteristics in RoboCup Rescue Simulation
+presentation_type: oral
+presenters:
+- name: Keisuke ANDO
+  type: contributor
+- name: Haruaki UEDA
+  type: contributor
+- name: Takeshi UCHITANE
+  type: supervisor
+- name: Kazunori IWATA
+  type: supervisor
+- name: Nubuhiro ITO
+  type: supervisor
+event_name: 2021 Workshop on Artificial Intelligence and Simulation for Natural Disaster
+  Management
+orgnizer: RoboCup Federation
+location: オンライン
+presentation_date: 2021-07
+url: https://rescuesim.robocup.org/past-events/workshops/2021-workshop/2021-workshop-accepted-presentations/

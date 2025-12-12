@@ -1,0 +1,20 @@
+meta:
+  schema: presentation
+title: SoccerMix によるプレースタイルの分類と利用の検討
+presentation_type: poster
+presenters:
+- name: 福田 遥生
+  type: contributor
+- name: 安藤 圭祐
+  type: supervisor
+- name: 内種 岳詞
+  type: supervisor
+- name: 岩田 員典
+  type: supervisor
+- name: 伊藤 暢浩
+  type: supervisor
+event_name: 「社会におけるAI」研究会 第50回研究会
+orgnizer: 福知山公立大学
+location: 人工知能学会
+presentation_date: 2024-11
+url: https://sites.google.com/site/jsaisigsai/%E7%A0%94%E7%A9%B6%E4%BC%9A%E6%B4%BB%E5%8B%95/meeting-2024-11

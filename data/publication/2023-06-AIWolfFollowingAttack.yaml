@@ -1,0 +1,30 @@
+meta:
+  schema: publication
+title: 人狼知能における襲撃先同調の効果について
+publication_type: domestic_conference
+peer_reviewed: no
+authors:
+- name: 中尾 望
+  type: contributor
+- name: 村上 知弘
+  type: contributor
+- name: 三宅 陽
+  type: contributor
+- name: 村田 颯
+  type: contributor
+- name: 天野 樹
+  type: supervisor
+- name: 小島 大征
+  type: supervisor
+- name: 安藤 圭祐
+  type: supervisor
+- name: 伊藤 暢浩
+  type: supervisor
+venue: 人工知能学会全国大会論文集（Web）
+volume: 37
+issue: ~
+pages: 1-4
+publication_date: 2023-06
+doi: 10.11517/pjsai.JSAI2023.0_4D2GS1101
+url: ~
+acceptance_rate: ~

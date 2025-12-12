@@ -1,0 +1,28 @@
+meta:
+  schema: publication
+title: 愛知県における事故件数と交通量の関係についての分析
+publication_type: domestic_conference
+peer_reviewed: no
+authors:
+- name: 加藤 翔馬
+  type: contributor
+- name: 安藤 圭祐
+  type: contributor
+- name: 伊藤 暢浩
+  type: supervisor
+- name: 岩田 員典
+  type: supervisor
+- name: 内種 岳詞
+  type: supervisor
+- name: 向 直人
+  type: supervisor
+- name: 蒋 湧
+  type: supervisor
+venue: 人工知能学会第二種研究会資料
+volume: 2020
+issue: SAI-039
+pages: 6-13
+publication_date: 2020-11
+doi: 10.11517/jsaisigtwo.2020.SAI-039_06
+url: ~
+acceptance_rate: ~

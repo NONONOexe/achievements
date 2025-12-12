@@ -1,0 +1,32 @@
+meta:
+  schema: publication
+title: 愛知県の交通事故発生区域のクラスタ分析
+publication_type: domestic_conference
+peer_reviewed: no
+authors:
+- name: 安藤 圭祐
+  type: contributor
+- name: 國吉 佑輔
+  type: contributor
+- name: 清水 和彦
+  type: contributor
+- name: 岡本 愛
+  type: contributor
+- name: 伊藤 暢浩
+  type: supervisor
+- name: 岩田 員典
+  type: supervisor
+- name: 内種 岳詞
+  type: supervisor
+- name: 向 直人
+  type: supervisor
+- name: 蒋 湧
+  type: supervisor
+venue: 人工知能学会第二種研究会資料
+volume: 2021
+issue: SAI-42
+pages: 1-7
+publication_date: 2021-12
+doi: 10.11517/jsaisigtwo.2021.SAI-042_01
+url: https://drive.google.com/file/d/1ihLX3PLGIfpPMnDn_AgKZSx2V81GLnKz/view
+acceptance_rate: ~

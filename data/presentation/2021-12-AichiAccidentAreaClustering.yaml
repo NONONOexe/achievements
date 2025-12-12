@@ -1,0 +1,28 @@
+meta:
+  schema: presentation
+title: 愛知県の交通事故発生区域のクラスタ分析
+presentation_type: poster
+presenters:
+- name: 安藤 圭祐
+  type: contributor
+- name: 國吉 佑輔
+  type: contributor
+- name: 清水 和彦
+  type: contributor
+- name: 岡本 愛
+  type: contributor
+- name: 伊藤 暢浩
+  type: supervisor
+- name: 岩田 員典
+  type: supervisor
+- name: 内種 岳詞
+  type: supervisor
+- name: 向 直人
+  type: supervisor
+- name: 蒋 湧
+  type: supervisor
+event_name: 「社会における AI」研究会 第42回研究会
+orgnizer: 人工知能学会
+location: オンライン
+presentation_date: 2021-12
+url: https://sites.google.com/site/jsaisigsai/%E7%A0%94%E7%A9%B6%E4%BC%9A%E6%B4%BB%E5%8B%95/meeting-2021-12

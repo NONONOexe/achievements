@@ -17,7 +17,7 @@
 			"#   technical_report    : 技術報告書",
 			"#   journal_article     : 学術誌論文（査読あり）",
 			"#   book                : 書籍",
-			"publication_type: ${2|domestic_conference,technical_report,journal_article,book|}",
+			"publication_type: ${2|domestic_conference,conference_paper,technical_report,journal_article,book|}",
 			"",
 			"# 査読の有無",
 			"peer_reviewed: ${3|false,true|} # false / true",
